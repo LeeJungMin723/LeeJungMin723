@@ -1,5 +1,5 @@
 
-<img src='picture/20200317-the-cycle-of-investor-emotions.png'> </img>
+<img src='picture/20200317-the-psychology-of-a-market-cycle.png'> </img>
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Github%20Algo&fontSize=90&animation=scaleIn)
 
